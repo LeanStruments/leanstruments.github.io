@@ -148,7 +148,7 @@ body {
 	background-color: rgb(98,195,47);
 }
 
-@media screen and (max-width: 639px){
+@media screen and (max-width: 640px){
 	.top-bar.expanded.fixed {
 		top: 0;
 		position: fixed;
