@@ -147,6 +147,19 @@ body {
 .label {
 	background-color: rgb(98,195,47);
 }
+.vcard {
+	min-width: 300px;
+}
+.image {
+	display: block;
+	width: 110px;
+	height: 100px;
+	background: transparent url('../img/gybsz.jpg') center right no-repeat;
+	border-top-right-radius: 100px;
+	border-bottom-right-radius: 100px;
+	overflow: hidden;
+	float: right;
+}
 
 @media screen and (max-width: 640px){
 	.top-bar.expanded.fixed {
